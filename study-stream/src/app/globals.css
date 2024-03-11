@@ -5,3 +5,7 @@
 .bigtext {
   font-size: 5rem;
 }
+
+.round {
+  border-radius: 5px;
+}

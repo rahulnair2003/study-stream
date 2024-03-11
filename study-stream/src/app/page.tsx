@@ -17,7 +17,7 @@ export default function Home() {
         <div className="mt-8"></div>
         <div className="flex justify-center">
           <Link href="/dashboard">
-            <Button className="bg-red-600 text-white">
+            <Button className="bg-red-600 text-white round">
               Get Started
               <ArrowRight
                 className="ml-2 w-5  h-5"
